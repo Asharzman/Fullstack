@@ -1,15 +1,15 @@
 # 0.1: HTML
-Kertaa HTML:n perusteet lukemalla Mozillan tutoriaali HTML:stä.
+Kertaa HTML:n perusteet lukemalla Mozillan tutoriaali [HTML:stä.](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
 Tätä tehtävää ei palauteta GitHubiin, riittää että luet tutoriaalin.
 
 # 0.2: CSS
-Kertaa CSS:n perusteet lukemalla Mozillan tutoriaali CSS:stä.
+Kertaa CSS:n perusteet lukemalla Mozillan tutoriaali [CSS:stä.](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 
 Tätä tehtävää ei palauteta GitHubiin, riittää että luet tutoriaalin.
 
 # 0.3: HTML:n lomakkeet
-Tutustu HTML:n lomakkeiden perusteisiin lukemalla Mozillan tutoriaali Your first form.
+Tutustu HTML:n lomakkeiden perusteisiin lukemalla Mozillan tutoriaali [Your first form.](https://developer.mozilla.org/en-US/docs/learn/forms/your_first_form)
 
 Tätä tehtävää ei palauteta GitHubiin, riittää että luet tutoriaalin.
 
