@@ -1,5 +1,6 @@
-# Osa0 dokumentointi
-Mitä on tehty ja mitkä ovat olleet toimeksiannot.
+# Osa1 dokumentointi
+
+Tehtävien selvennys:
 
 ## 1.1:
 Tässä tehtävässä aloitettavaa ohjelmaa kehitellään eteenpäin muutamassa seuraavassa tehtävässä. Tässä ja kurssin aikana muissakin vastaan tulevissa tehtäväsarjoissa ohjelman lopullisen version palauttaminen riittää. Voit toki halutessasi tehdä commitin jokaisen tehtävän jälkeisestä tilanteesta, mutta se ei ole välttämätöntä.
