@@ -70,3 +70,16 @@ const App = () => {
 VAROITUS create-react-app tekee projektista automaattisesti Git-repositorion, ellei sovellusta luoda jo olemassa olevan repositorion sisälle. Todennäköisesti et halua, että projektista tulee repositorio, joten suorita projektin juuressa komento rm -rf .git.
 
 ## 1.2:
+Refaktoroi vielä komponentti Content siten, että se ei itse renderöi yhdenkään osan nimeä eikä sen tehtävälukumäärää vaan ainoastaan kolme Part-nimistä komponenttia, joista kukin siis renderöi yhden osan nimen ja tehtävämäärän.
+```
+const Content = ... {
+  return (
+    <div>
+      <Part .../>
+      <Part .../>
+      <Part .../>
+    </div>
+  )
+}
+```
+Sovelluksemme tiedonvälitys on tällä hetkellä todella alkukantaista, sillä se perustuu yksittäisiin muuttujiin. Tilanne paranee pian.
