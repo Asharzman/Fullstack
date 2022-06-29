@@ -1,1 +1,0 @@
-# 1D - Monimutkaisempi tila, Reactin debuggaus
