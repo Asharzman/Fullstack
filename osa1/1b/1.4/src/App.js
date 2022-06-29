@@ -46,7 +46,7 @@ const App = () => {
   const Total = () => {
     return (
       <div>
-        {ExerciseSum}
+        <p>Number of exercises: {ExerciseSum}</p>
       </div>
     )
   }
