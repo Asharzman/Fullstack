@@ -1,3 +1,3 @@
 # Osa 2
 
-## B - Palvelimella olevan datan hakeminen
+## C - Palvelimella olevan datan hakeminen
